@@ -1,0 +1,6 @@
+[submodule "CourseWork"]
+	path = CourseWork
+	url = git@github.com:Reidond/CourseWork.git
+[submodule "OCP-Flutter"]
+	path = OCP-Flutter
+	url = git@github.com:Reidond/OCP-Flutter.git
